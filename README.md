@@ -145,7 +145,3 @@ MCA - Data Science
 Passionate about AI, ML, and Full Stack Development
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it with proper credit.
