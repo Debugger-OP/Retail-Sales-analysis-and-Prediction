@@ -140,8 +140,8 @@ The model is trained each time new data is added, ensuring accurate and dynamic 
 ## Author
 
 **Saurav Sharma**  
-MCA Student – Data Science & Software Development  
-saurav@example.com  
+MCA - Data Science
+25MCD10017@cuchd.in  
 Passionate about AI, ML, and Full Stack Development
 
 ---
